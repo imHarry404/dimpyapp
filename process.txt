@@ -1,0 +1,14 @@
+"homepage": "https://imharry404.github.io/repo-name",
+
+npm install --save gh-pages --terminate the server before doing this
+
+
+add this to package.json
+"predeploy": "npm run build",
++   "deploy": "gh-pages -d build",
+
+
+npm run deploy
+
+
+go to github and select gh-pages
