@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dimpyapp/static/css/main.62f3f396.chunk.css",
+    "main.js": "/dimpyapp/static/js/main.ba72c127.chunk.js",
+    "main.js.map": "/dimpyapp/static/js/main.ba72c127.chunk.js.map",
+    "runtime-main.js": "/dimpyapp/static/js/runtime-main.383b70ba.js",
+    "runtime-main.js.map": "/dimpyapp/static/js/runtime-main.383b70ba.js.map",
+    "static/css/2.27175f2b.chunk.css": "/dimpyapp/static/css/2.27175f2b.chunk.css",
+    "static/js/2.47ce439d.chunk.js": "/dimpyapp/static/js/2.47ce439d.chunk.js",
+    "static/js/2.47ce439d.chunk.js.map": "/dimpyapp/static/js/2.47ce439d.chunk.js.map",
+    "index.html": "/dimpyapp/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/dimpyapp/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.62f3f396.chunk.css.map": "/dimpyapp/static/css/main.62f3f396.chunk.css.map",
+    "static/js/2.47ce439d.chunk.js.LICENSE.txt": "/dimpyapp/static/js/2.47ce439d.chunk.js.LICENSE.txt",
+    "static/media/breakfast.jpg": "/dimpyapp/static/media/breakfast.ff884c52.jpg",
+    "static/media/dinner.png": "/dimpyapp/static/media/dinner.b61a3e92.png",
+    "static/media/drinks.png": "/dimpyapp/static/media/drinks.5e906fc3.png",
+    "static/media/lunch.jpg": "/dimpyapp/static/media/lunch.594b4bf2.jpg",
+    "static/media/nightlife.png": "/dimpyapp/static/media/nightlife.04914610.png",
+    "static/media/snacks.png": "/dimpyapp/static/media/snacks.a81da127.png",
+    "static/media/Home.css": "/dimpyapp/static/media/wallpaper.b5dfce16.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.383b70ba.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.47ce439d.chunk.js",
+    "static/css/main.62f3f396.chunk.css",
+    "static/js/main.ba72c127.chunk.js"
+  ]
+}
